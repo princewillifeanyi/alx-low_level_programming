@@ -1,10 +1,10 @@
 #include "main.h"
 
-/* 
- * main - entry point of program
- * function _putchar defined in main.h
- * return 0
-*/
+/**
+ * main - ENtry point
+ *
+ * Return: ALways 0 (Success)
+ */
 
 int main(void)
 {
