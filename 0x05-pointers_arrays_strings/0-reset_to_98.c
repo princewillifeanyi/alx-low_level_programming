@@ -1,5 +1,4 @@
 #include "main.h"
-#include <studio.h>
 
 /**
  * reset_to_98 - Reset valye ofpointer to 98
